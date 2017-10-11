@@ -1,0 +1,109 @@
+
+.navbar{
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+}
+
+ul.nav.navbar-nav.navbar-right{
+  margin-top: 10px;
+}
+
+.navbar-default .navbar-nav>li>a{
+  color: #ffffff;
+  font-weight: 800;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  color: #ffffff;
+  opacity: 0.7;
+}
+
+.navbar-default .navbar-nav>li>a.btn{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.navbar-default .navbar-nav>li>a.btn:hover{
+  background-color: #449d44;
+  border-color: #398439;
+  opacity: 1;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+  color: #ffffff;
+  background-color: rgba(231, 231, 231, 0);
+  opacity: 1;
+}
+
+.navbar-default{
+  background-color: transparent;
+  background: -moz-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 100%);
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 0%,rgba(0,0,0,0) 100%);
+  background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%,rgba(0,0,0,0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=0 );
+  border: none;
+}
+
+.navbar-brand{
+  padding: 0;
+}
+
+.navbar-brand img{
+  width: 200px;
+}
+
+.alert-default{
+  background: rgb(89,178,63);
+  background: -moz-linear-gradient(left, rgb(89,178,63) 0%, rgb(64,161,45) 100%);
+  background: -webkit-linear-gradient(left, rgb(89,178,63) 0%,rgb(64,161,45) 100%);
+  background: linear-gradient(to right, rgb(89,178,63) 0%,rgb(64,161,45) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#59b23f', endColorstr='#40a12d',GradientType=1 );
+  color: #ffffff;
+  padding: 10px;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+
+.alert-default a{
+  color: #ffffff;
+  font-weight: 800;
+}
+
+.alert-default a:hover{
+  opacity: 0.7}
+
+.alert-default .close{
+  top:14px;
+}
+
+
+
+@media screen and (max-width: 992px){
+  .navbar-default .navbar-collapse{
+    border-color: rgba(231, 231, 231, 0);
+  }
+
+  .navbar-collapse{
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0);
+  }
+
+  .navbar-toggle{
+    margin-right: 0;
+  }
+  .navbar-default .navbar-toggle .icon-bar{
+    background-color: #ffffff
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a{
+    color: #efefef
+  }
+
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+    color: #65bb48;
+  }
+}
+
+@media screen and (max-width: 480px){
+
+}
