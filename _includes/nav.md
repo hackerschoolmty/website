@@ -19,7 +19,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="{{ site.baseurl }}/images/hacker-school-logo.jpg">
+          <img src="{{ site.baseurl }}images/hacker-school-logo.jpg">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

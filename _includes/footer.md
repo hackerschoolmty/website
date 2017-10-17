@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-5">
-        <img src="{{ site.baseurl }}/images/hacker-school-logo.jpg">
+        <img src="{{ site.baseurl }}images/hacker-school-logo.jpg">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique.</p>
       </div>
       <div class="col-md-3">
