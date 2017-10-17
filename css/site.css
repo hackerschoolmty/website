@@ -193,6 +193,20 @@ figure figcaption a.btn{
   text-align: center;
 }
 
+.testimoniales .panel-default svg.alumno{
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.testimoniales .panel-default i{
+  display: block;
+}
+
+.testimoniales .panel-default p{
+  float: left;
+  margin-top: 20px;
+}
 
 /* Home Companies*/
 .companies{
@@ -377,4 +391,158 @@ ul.menu-lateral li a:hover{
   position: relative;
   width: 2px;
   top: 5px;
+}
+
+.gray-dark{
+  background: rgb(67,63,64);
+  background: -moz-linear-gradient(-45deg, rgba(67,63,64,1) 0%, rgba(35,32,32,1) 100%);
+  background: -webkit-linear-gradient(-45deg, rgba(67,63,64,1) 0%,rgba(35,32,32,1) 100%);
+  background: linear-gradient(135deg, rgba(67,63,64,1) 0%,rgba(35,32,32,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#433f40', endColorstr='#232020',GradientType=1 );
+}
+
+/* Instructores */
+.instructores{
+  color: #ffffff;
+  padding: 50px 0;
+}
+
+.instructores h2{
+  margin-bottom: 30px;
+}
+
+.instructores .panel-default{
+  border: none;
+  background: rgb(89, 178, 63);
+  background: -moz-linear-gradient(-45deg, rgba(89, 178, 63, 1) 0%, rgba(64, 161, 45, 1) 100%);
+  background: -webkit-linear-gradient(-45deg, rgba(89, 178, 63, 1) 0%, rgba(64, 161, 45, 1) 100%);
+  background: linear-gradient(135deg, rgba(89, 178, 63, 1) 0%, rgba(64, 161, 45, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#59b23f', endColorstr='#40a12d', GradientType=1 );
+}
+
+.instructores .panel-default h3{
+  margin-top: 0px;
+}
+
+.instructores .panel-default svg.instructor{
+  position: absolute;
+  right: 0px;
+  top: 60px;
+}
+
+/* Redes Dev */
+ul.social-dev{
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+ul.social-dev li{
+  display: inline;
+}
+
+a.social-dev-fb{
+  background-size: 58px !important;
+}
+
+a.social-dev-tw{
+  background-size: 58px !important;
+}
+
+a.social-dev-ins{
+  background-size: 58px !important;
+}
+
+.social-dev-fb{
+  width: 29px;
+  height: 29px;
+  padding: 0 !important;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 5px;
+  display: inline-block;
+  background: url('../images/redes-dev.png') 0 0;
+  background-size: 58px;
+  overflow: hidden;
+}
+
+
+a.social-dev-fb:hover{
+  background: url('../images/redes-dev.png') -29px 0px;
+}
+
+.social-dev-tw{
+  width: 29px;
+  height: 29px;
+  padding: 0 !important;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 5px;
+  display: inline-block;
+  background: url('../images/redes-dev.png') 0 -29px;
+  background-size: 58px;
+  overflow: hidden;
+}
+
+a.social-dev-tw:hover{
+  background: url('../images/redes-dev.png') -29px -29px;
+}
+
+/* Colegiatura */
+.colegiatura{
+  color: #ffffff;
+  padding: 50px 0;
+}
+
+.colegiatura h4,h3{
+  font-weight: 600;
+}
+
+.colegiatura h4.metodos{
+  margin-top: 30px;
+}
+
+.colegiatura p{
+  color: #c3c3c3;
+}
+
+.colegiatura .btn{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+/* Faqs */
+.faqs{
+  color: #ffffff;
+  padding: 50px 0;
+}
+
+.faqs .panel{
+  border: none;
+  padding: 10px 0;
+}
+
+.faqs .panel-default{
+  border: none;
+  background-color: #221f20;
+}
+
+.faqs .panel-default .panel-title{
+  border: none;
+ font-weight: 600;
+}
+
+.faqs .panel-default>.panel-heading{
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.faqs .panel-body{
+  color: #c3c3c3;
+}
+
+.faqs .panel-default>.panel-heading+.panel-collapse>.panel-body{
+  border-top-color: #484848;
 }

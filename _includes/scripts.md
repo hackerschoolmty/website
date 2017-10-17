@@ -3,7 +3,10 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 
-<script type="text/javascript">
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.scrollTo.js"></script>
+
+<!-- <script type="text/javascript">
   $(document).ready(function () {
     var top = $('.sticky-scroll-box').offset().top;
     $(window).scroll(function (event) {
@@ -15,4 +18,4 @@
       $('.sticky-scroll-box').width($('.sticky-scroll-box').parent().width());
     });
   });
-</script>
+</script> -->

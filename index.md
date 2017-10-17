@@ -126,6 +126,14 @@ id: Home
           <div class="panel-body">
             <span class="comillas"><img src="images/comillas.png"></span>
             <i>"<b>Hacker School Monterrey</b> es la escuela de software con los mejores programas y mentores de Monterrey para que aprendas a desarrollar software moderno como un verdadero arte."</i>
+            <svg width="80" height="80" viewBox="0 0 80 80"  class="alumno">
+              <clipPath id="clip-path">
+                  <path d="M4.6,22.8c0-1.8,1.3-4,2.8-4.9L37.2,0.7c1.6-0.9,4.1-0.9,5.7,0l29.8,17.2c1.6,0.9,2.8,3.1,2.8,4.9v34.4
+c0,1.8-1.3,4-2.8,4.9L42.9,79.3c-1.6,0.9-4.1,0.9-5.7,0L7.5,62.1c-1.6-0.9-2.8-3.1-2.8-4.9V22.8z"/>
+              </clipPath>
+              <image clip-path="url(#clip-path)" xlink:href="images/adrian.jpg"  src="images/adrian.jpg" alt="Image" height="80" width="80"/>
+            </svg>
+            <p><b>Adrían Cuadros</b><br> Alumno 2016</p>
           </div>
         </div>
       </div>
@@ -134,6 +142,14 @@ id: Home
           <div class="panel-body">
             <span class="comillas"><img src="images/comillas.png"></span>
             <i>"<b>Hacker School Monterrey</b> es la escuela de software con los mejores programas y mentores de Monterrey para que aprendas a desarrollar software moderno como un verdadero arte."</i>
+            <svg width="80" height="80" viewBox="0 0 80 80"  class="alumno">
+              <clipPath id="clip-path">
+                  <path d="M4.6,22.8c0-1.8,1.3-4,2.8-4.9L37.2,0.7c1.6-0.9,4.1-0.9,5.7,0l29.8,17.2c1.6,0.9,2.8,3.1,2.8,4.9v34.4
+c0,1.8-1.3,4-2.8,4.9L42.9,79.3c-1.6,0.9-4.1,0.9-5.7,0L7.5,62.1c-1.6-0.9-2.8-3.1-2.8-4.9V22.8z"/>
+              </clipPath>
+              <image clip-path="url(#clip-path)" xlink:href="images/adrian.jpg"  src="images/adrian.jpg" alt="Image" height="80" width="80"/>
+            </svg>
+            <p><b>Adrían Cuadros</b><br> Alumno 2016</p>
           </div>
         </div>
       </div>
@@ -142,6 +158,14 @@ id: Home
           <div class="panel-body">
             <span class="comillas"><img src="images/comillas.png"></span>
             <i>"<b>Hacker School Monterrey</b> es la escuela de software con los mejores programas y mentores de Monterrey para que aprendas a desarrollar software moderno como un verdadero arte."</i>
+            <svg width="80" height="80" viewBox="0 0 80 80"  class="alumno">
+              <clipPath id="clip-path">
+                  <path d="M4.6,22.8c0-1.8,1.3-4,2.8-4.9L37.2,0.7c1.6-0.9,4.1-0.9,5.7,0l29.8,17.2c1.6,0.9,2.8,3.1,2.8,4.9v34.4
+c0,1.8-1.3,4-2.8,4.9L42.9,79.3c-1.6,0.9-4.1,0.9-5.7,0L7.5,62.1c-1.6-0.9-2.8-3.1-2.8-4.9V22.8z"/>
+              </clipPath>
+              <image clip-path="url(#clip-path)" xlink:href="images/adrian.jpg"  src="images/adrian.jpg" alt="Image" height="80" width="80"/>
+            </svg>
+            <p><b>Adrían Cuadros</b><br> Alumno 2016</p>
           </div>
         </div>
       </div>
