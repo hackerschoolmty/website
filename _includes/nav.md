@@ -29,9 +29,9 @@
               Programas <span class="caret"></span>
             </a>
             <ul class="dropdown-menu">
-              <li><a href="{{site.baseurl}}/programa">Programa</a></li>
-              <li><a href="{{site.baseurl}}/programa">Programa</a></li>
-              <li><a href="{{site.baseurl}}/programa">Programa</a></li>
+              <li><a href="{{site.baseurl}}programa">Programa</a></li>
+              <li><a href="{{site.baseurl}}programa">Programa</a></li>
+              <li><a href="{{site.baseurl}}programa">Programa</a></li>
             </ul>
           </li>
           <li role="presentation" class="dropdown">
@@ -44,9 +44,9 @@
               <li><a href="#">Taller</a></li>
             </ul>
           </li>
-          <li><a href="{{site.baseurl}}/">Mentores</a></li>
-          <li><a href="{{site.baseurl}}/">Blog</a></li>
-          <li><a href="{{site.baseurl}}/" class="btn btn-success" role="button">REGÍSTRATE</a></li>
+          <li><a href="{{site.baseurl}}">Mentores</a></li>
+          <li><a href="{{site.baseurl}}">Blog</a></li>
+          <li><a href="{{site.baseurl}}" class="btn btn-success" role="button">REGÍSTRATE</a></li>
         </ul>
       </div>
     </div>
