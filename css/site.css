@@ -546,3 +546,8 @@ a.social-dev-tw:hover{
 .faqs .panel-default>.panel-heading+.panel-collapse>.panel-body{
   border-top-color: #484848;
 }
+
+/*modal*/
+.modal-video{
+  padding: 0;
+}
